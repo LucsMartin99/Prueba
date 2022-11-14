@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('partybackground.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+#contheader {
+    background-color: black;
+    color: white;
+}
+
+#contlogo {
+    float: left;
+    width: 30%;
+}
+
+#contiso {
+    width: 50%;
+}
+#contcard {
+    
+}
